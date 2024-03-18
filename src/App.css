@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.about-link {
+    cursor: pointer;
+    color: blue; /* or any other color you prefer */
+    text-decoration: underline;
+}
